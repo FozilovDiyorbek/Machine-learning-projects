@@ -55,7 +55,7 @@ Agent: Goodbye! Have a nice day!
 
 - Clone the repository:
 ```
-git clone https://github.com/username/repository_name.git
+git clone https://github.com/FozilovDiyorbek/Machine-learning-projects/tree/main/Simple-chat-AI-Agent.git
 cd repository_name
 ```
 - Run the chatbot:
