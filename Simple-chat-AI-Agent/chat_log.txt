@@ -1,0 +1,10 @@
+
+--- New session: 2025-11-02 10:21:14.620722 ---
+Siz: salom
+Agent: Salom! Qanday yordam bera olishim mumkin?
+Siz: isming nima
+Agent: Bu haqida bilmayman — boshqa savol bering.
+Siz: sen kimsan
+Agent: Men oddiy AI agentman.
+Siz: xayr
+Agent: Sog‘ bo‘ling!
